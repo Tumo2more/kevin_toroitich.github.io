@@ -44,7 +44,7 @@ copyright: "Unpublished Work (cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Kevin toroitich is a graduate geologist from the Dedan kimathi University of science.I have experience as a exploration geologist an a freelance for more than five years.
-  With Tech expert Academy i hope i will get the best Tech skills needed to make th
+  With Tech expert Academy i hope i will get the best Tech skills needed to make the evolving tech community achieve its best at and make work easier
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
