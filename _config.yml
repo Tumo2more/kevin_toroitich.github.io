@@ -26,7 +26,7 @@
 
 title: Tech Expert Academy
 email: kevotumo1@gmail.com
-author: GitHub User
+author: Kevin Toroitich
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,7 +40,7 @@ author: GitHub User
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Kevin toroitich is a graduate geologist from the Dedan kimathi University of science.I have experience as a exploration geologist an a freelance for more than five years.
