@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tech Expert Academy
+title: Machine learning expert
 email: kevotumo1@gmail.com
 author: Kevin Toroitich
 
