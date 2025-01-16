@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Markdown Guide
-subtitle: Resources to work with Markdown
+title: My tech log
+subtitle: Kevin is a geologist passionate with IT related matters
 categories: markdown
 tags: [guide, markdown]
 ---
